@@ -13,6 +13,7 @@ Group: System/Libraries
 BuildRequires: pkgconfig(cppunit)
 BuildRequires: pkgconfig(zlib)
 BuildRequires: boost-devel
+BuildRequires: doxygen
 
 %libpackage revenge %{abi} %{major}
 %libpackage revenge-generators %{abi} %{major}
