@@ -1,5 +1,6 @@
 removed_sources:
   librevenge-0.0.1.tar.xz: 8987ad4202035bf3bfa6d879fc689ecb9b4a80d9
   librevenge-0.0.2.tar.xz: 5c222325294624d9a715cd9babac2e7855bd15e3
-sources:
   librevenge-0.0.3.tar.xz: 5f97be508eb6786157b9c02aa867a8944f085762
+sources:
+  librevenge-0.0.4.tar.xz: 533dd83a668d3efc0095ad82718e34662395635d
