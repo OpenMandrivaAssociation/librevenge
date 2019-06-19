@@ -55,7 +55,7 @@ and presentations.
 
 %prep
 %setup -q
-%configure
+%configure --disable-werror
 
 %build
 %make
