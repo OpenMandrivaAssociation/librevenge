@@ -10,6 +10,11 @@ Summary: Base library for writing document import filters
 URL: https://sf.net/p/libwpd/wiki/librevenge/
 License: LGPLv2.1/MPL
 Group: System/Libraries
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: pkgconfig(cppunit)
 BuildRequires: pkgconfig(zlib)
 BuildRequires: boost-devel
