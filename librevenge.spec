@@ -3,7 +3,7 @@
 %define devname %mklibname revenge -d
 
 Name: librevenge
-Version: 0.0.5
+Version: 0.0.6
 Release: 1
 Source0: http://downloads.sourceforge.net/project/libwpd/librevenge/librevenge-%{version}/librevenge-%{version}.tar.xz
 Summary: Base library for writing document import filters
